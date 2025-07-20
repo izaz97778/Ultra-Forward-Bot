@@ -1,5 +1,6 @@
 pyrofork==2.3.45
-motor==3.3.1
+motor==2.5.1
+pymongo==3.12.3
 TgCrypto==1.2.3
 dnspython==2.4.2
 aiohttp==3.9.5
